@@ -1,1 +1,2 @@
 re-run nbinteract init
+nbinteract example-plot-function.ipynb
